@@ -4,3 +4,17 @@ BODY {
   font-family: times; 
 
 }
+
+.column1of3, .column2of3, .column3of3 {
+width: 300px;
+float: left;
+margin: 30px;}
+
+#footer {
+  width:100%;
+  height:60px;
+  position:fixed;
+  bottom:0;
+  left:0;
+  background:#C8D7D8;
+}
